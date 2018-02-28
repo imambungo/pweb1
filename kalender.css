@@ -1,0 +1,36 @@
+body{
+  background-color: #323232;
+  color: white;
+  font-family:sans-serif;
+}
+.libur{
+  color: #ff1a1a;
+}
+#liburr{
+  color: #b30000;
+}
+#keterangan{
+  text-align:left;
+}
+.header{
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align:center;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+th{
+  background-color: #444;
+}
+th,td{
+  padding: 10px;
+}
+td:hover{
+  background-color: #666;
+}
+.out{
+  color:grey;
+}
